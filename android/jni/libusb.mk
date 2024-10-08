@@ -57,4 +57,4 @@ else
   $(warning USE_PC_NAME=1 may be the default in the future.)
 endif
 
-include $(BUILD_SHARED_LIBRARY)
+include $(BUILD_STATIC_LIBRARY)
